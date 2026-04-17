@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simulacro Conocimientos Policiales 2027</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <header class="hero">
+      <p class="eyebrow">Simulacro académico</p>
+      <h1>SIMULACRO CONOCIMIENTOS POLICIALES</h1>
+      <p class="lead">
+        Inmersión Total Milla Extra – Subintendentes 2027. Este simulacro está diseñado para reforzar conocimientos y permitir una autoevaluación clara al finalizar.
+      </p>
+      <div class="notice">
+        Cada pregunta tiene una única respuesta correcta. Responda con atención y al final podrá ver su puntaje, porcentaje y las preguntas que conviene revisar.
+      </div>
+    </header>
+
+    <section class="intro-card">
+      <div>
+        <h2>Instrucciones</h2>
+        <p>
+          Lea cada pregunta con calma y seleccione una sola respuesta entre las opciones A, B, C o D. El sistema calificará automáticamente al finalizar.
+        </p>
+        <ul>
+          <li><strong>Cada pregunta vale lo mismo</strong></li>
+          <li><strong>Solo hay una respuesta correcta</strong></li>
+          <li><strong>Debe responder todas las preguntas</strong></li>
+        </ul>
+      </div>
+
+      <div>
+        <h2>Resultados del simulacro</h2>
+        <table class="result-table">
+          <thead>
+            <tr>
+              <th>Qué verá al final</th>
+              <th>Descripción</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Puntaje obtenido</td>
+              <td>Número de respuestas correctas sobre el total del simulacro.</td>
+            </tr>
+            <tr>
+              <td>Porcentaje</td>
+              <td>Proporción de aciertos obtenidos.</td>
+            </tr>
+            <tr>
+              <td>Preguntas por revisar</td>
+              <td>Números de las preguntas respondidas incorrectamente.</td>
+            </tr>
+          </tbody>
+        </table>
+        <p class="small-note">
+          Los resultados son inmediatos y se muestran al finalizar el cuestionario.
+        </p>
+      </div>
+    </section>
+
+    <section class="progress-card">
+      <div class="progress-header">
+        <h2>Progreso del simulacro</h2>
+        <span id="progressText">0 de 0 preguntas respondidas</span>
+      </div>
+
+      <div class="progress-bar">
+        <div id="progressFill" class="progress-fill"></div>
+      </div>
+
+      <div class="progress-percent">
+        <span id="progressPercent">0%</span>
+      </div>
+    </section>
+
+    <form id="quizForm" class="quiz-form">
+      <section class="student-box">
+        <h2>Datos del participante</h2>
+        <label for="studentName">Nombre (opcional)</label>
+        <input type="text" id="studentName" name="studentName" placeholder="Escriba aquí su nombre">
+      </section>
+
+      <section class="question-section">
+        <h2>Cuestionario</h2>
+        <div id="loadingMessage" class="loading-box">Cargando preguntas...</div>
+        <div id="questionsContainer"></div>
+      </section>
+
+      <div class="actions">
+        <button type="submit" class="btn primary">Calcular resultado</button>
+        <button type="button" id="resetBtn" class="btn secondary">Limpiar respuestas</button>
+      </div>
+    </form>
+
+    <div id="resultModal" class="modal-overlay hidden">
+      <div class="modal-content" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+        <button type="button" id="closeModalBtn" class="modal-close">&times;</button>
+
+        <h2 id="modalTitle">Resultado del simulacro</h2>
+        <p id="resultStudent"></p>
+
+        <div class="result-grid">
+          <div class="result-box">
+            <span class="label">Puntaje</span>
+            <strong id="scoreValue">0 / 0</strong>
+          </div>
+          <div class="result-box">
+            <span class="label">Porcentaje</span>
+            <strong id="percentageValue">0%</strong>
+          </div>
+          <div class="result-box">
+            <span class="label">Desempeño general</span>
+            <strong id="performanceValue">—</strong>
+          </div>
+        </div>
+
+        <div id="resultMessage" class="result-message"></div>
+
+        <p class="small-note">
+          Este simulacro tiene un propósito académico y de práctica. Puede repetirse cuantas veces sea necesario.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
