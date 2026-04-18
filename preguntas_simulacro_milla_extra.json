@@ -21,7 +21,7 @@
         "C": "Las autoridades están instituidas para proteger a todas las personas en su vida y asegurar la convivencia",
         "D": "La intervención de la fuerza pública depende exclusivamente de decisiones políticas del Gobierno Nacional."
       },
-      "correct": null
+      "correct":"C"
     },
     {
       "number": 3,
@@ -65,7 +65,7 @@
         "C": "La institución tiene prevalencia sobre los derechos individuales dentro del entorno educativo.",
         "D": "El estudiante solo puede ejercer su personalidad fuera del establecimiento educativo."
       },
-      "correct": null
+      "correct": "B"
     },
     {
       "number": 7,
@@ -186,7 +186,7 @@
         "C": "Presentar acción de cumplimiento para exigir la mejora del servicio.",
         "D": "Interponer acción de grupo para reclamar la indemnización de los daños causados."
       },
-      "correct": null
+      "correct": "D"
     },
     {
       "number": 18,
@@ -263,7 +263,7 @@
         "C": "Abandono de comandos especiales.",
         "D": "Omisión en el servicio."
       },
-      "correct": null
+      "correct": "C"
     },
     {
       "number": 25,
@@ -274,7 +274,7 @@
         "C": "Omisión en el servicio",
         "D": "Falta disciplinaria, al no existir abandono material del lugar."
       },
-      "correct": "D"
+      "correct": "B"
     },
     {
       "number": 26,
@@ -285,7 +285,7 @@
         "C": "Abandono del servicio",
         "D": "Omisión en el servicio,"
       },
-      "correct": null
+      "correct": "C"
     },
     {
       "number": 27,
@@ -340,7 +340,7 @@
         "C": "Cobardía por omisión",
         "D": "Inutilización voluntaria"
       },
-      "correct": null
+      "correct": "C"
     },
     {
       "number": 32,
@@ -417,7 +417,7 @@
         "C": "Saqueo, por apropiación de bienes en combate.",
         "D": "Omisión en el servicio, por incumplir procedimientos."
       },
-      "correct": null
+      "correct": "B"
     },
     {
       "number": 39,
@@ -439,7 +439,7 @@
         "C": "Contribuciones ilegales",
         "D": "Abuso de autoridad,"
       },
-      "correct": null
+      "correct": "C"
     },
     {
       "number": 41,
@@ -483,7 +483,7 @@
         "C": "Solo hay responsabilidad disciplinaria por incumplimiento de funciones laborales.",
         "D": "Se configura caso fortuito, porque no tenía obligación de intervenir directamente."
       },
-      "correct": null
+      "correct":"B"
     },
     {
       "number": 45,
@@ -505,7 +505,7 @@
         "C": "Uno es determinador y el otro autor material, porque hubo planeación previa.",
         "D": "Ambos son autores mediatos, porque utilizaron un instrumento humano."
       },
-      "correct": null
+      "correct": "B"
     },
     {
       "number": 47,
@@ -516,7 +516,7 @@
         "C": "El funcionario es coautor, porque hubo acuerdo previo en la ejecución del delito.",
         "D": "El funcionario es autor mediato, porque instrumentalizo"
       },
-      "correct": null
+      "correct": "B"
     },
     {
       "number": 48,
@@ -758,7 +758,7 @@
         "C": "La actuación es válida siempre que no exista otra alternativa de ubicación temporal.",
         "D": "La Policía puede definir libremente el género de ubicación según el documento de identidad."
       },
-      "correct": null
+      "correct": "B"
     },
     {
       "number": 70,
@@ -780,7 +780,7 @@
         "C": "La inspección corporal solo puede realizarse con consentimiento verbal del imputado, sin intervención judicial.",
         "D": "La inspección corporal puede ser ejecutada libremente por la Policía en cualquier contexto preventivo."
       },
-      "correct": null
+      "correct": "B"
     },
     {
       "number": 72,
@@ -791,7 +791,7 @@
         "C": "Ambiente",
         "D": "Salud pública"
       },
-      "correct": null
+      "correct": "B"
     },
     {
       "number": 73,
@@ -1011,7 +1011,7 @@
         "C": "Falta gravísima",
         "D": "No constituye falta disciplinaria"
       },
-      "correct": null
+      "correct": "B"
     },
     {
       "number": 93,
@@ -1033,7 +1033,7 @@
         "C": "El Procurador General de la Nación",
         "D": "El comandante de la unidad donde presta el servicio el patrullero"
       },
-      "correct": null
+      "correct": "A"
     },
     {
       "number": 95,
@@ -1066,7 +1066,7 @@
         "C": "Encargo",
         "D": "Traslado"
       },
-      "correct": null
+      "correct": "B"
     },
     {
       "number": 98,
@@ -1088,7 +1088,7 @@
         "C": "Franquicia",
         "D": "Comisión"
       },
-      "correct": null
+      "correct": "B"
     },
     {
       "number": 100,
@@ -1099,7 +1099,7 @@
         "C": "Director General de la Policía Nacional mediante orden administrativa",
         "D": "Comando de Departamento mediante orden del día"
       },
-      "correct": null
+      "correct": "B"
     },
     {
       "number": 101,
@@ -1110,7 +1110,7 @@
         "C": "Director General de la Policía Nacional mediante orden administrativa",
         "D": "Comando de Departamento o Seccional mediante orden del día"
       },
-      "correct": null
+      "correct": "D"
     },
     {
       "number": 102,
@@ -1198,7 +1198,7 @@
         "C": "Incorrecta ya que el reglamento establece que se debe aprobar el 60 % de los créditos académicos",
         "D": "Incorrecta ya que el reglamento establece que se debe aprobar el 50 % de los créditos académicos"
       },
-      "correct": null
+      "correct": "D"
     },
     {
       "number": 110,
@@ -1209,7 +1209,7 @@
         "C": "Oficial general de semana",
         "D": "Un brigadier general que labore en la DIPON"
       },
-      "correct": null
+      "correct": "D"
     },
     {
       "number": 111,
@@ -1220,7 +1220,7 @@
         "C": "mando ejecutivo o suboficial de servicio",
         "D": "oficial de guarnición"
       },
-      "correct": null
+      "correct": "B"
     },
     {
       "number": 112,
@@ -1231,7 +1231,7 @@
         "C": "mando ejecutivo o suboficial de servicio",
         "D": "oficial de guarnición"
       },
-      "correct": null
+      "correct": "A"
     },
     {
       "number": 113,
@@ -1242,7 +1242,7 @@
         "C": "mando ejecutivo o suboficial de servicio",
         "D": "oficial de guarnición"
       },
-      "correct": null
+      "correct": "A"
     },
     {
       "number": 114,
@@ -1253,7 +1253,7 @@
         "C": "distritos especiales de policía",
         "D": "puestos de policía"
       },
-      "correct": null
+      "correct": "A"
     },
     {
       "number": 115,
@@ -1264,7 +1264,7 @@
         "C": "Destituido e inhabilitado",
         "D": "Separado de forma temporal"
       },
-      "correct": null
+      "correct": "D"
     },
     {
       "number": 116,
@@ -1396,7 +1396,7 @@
         "C": "Oportunidad, discrecionalidad y obediencia",
         "D": "Control, fuerza letal y resultado"
       },
-      "correct": null
+      "correct": "B"
     },
     {
       "number": 128,
@@ -1517,7 +1517,7 @@
         "C": "Dinamizar frentes de seguridad en barrios y conjuntos residenciales",
         "D": "Apoyar a ciudadanos que solicitan intervención policial en el sector"
       },
-      "correct": null
+      "correct": "A"
     },
     {
       "number": 139,
@@ -1528,7 +1528,7 @@
         "C": "Dinamizar frentes de seguridad en barrios y conjuntos residenciales",
         "D": "Apoyar a personas que solicitan intervención policial en el sector"
       },
-      "correct": null
+      "correct": "B"
     },
     {
       "number": 140,
@@ -1539,7 +1539,7 @@
         "C": "Ubicar patrullas sobre semáforos en corredores viales para realizar registros selectivos a vehículos cuando la luz está en rojo",
         "D": "Realizar recorridos en motocicleta por corredores viales en horarios de apertura y cierre bancario, con registro a vehículos y personas sospechosas en entidades financieras y sus alrededores"
       },
-      "correct": null
+      "correct": "D"
     },
     {
       "number": 141,
@@ -1550,7 +1550,7 @@
         "C": "Ubicar patrullas sobre semáforos en corredores viales para realizar registros selectivos cuando la luz está en rojo",
         "D": "Ubicar patrullas en sitios críticos conformadas por mínimo cuatro uniformados para abordar transporte público y realizar registro e identificación de personas en horas pico"
       },
-      "correct": null
+      "correct": "D"
     },
     {
       "number": 142,
@@ -1561,7 +1561,7 @@
         "C": "Ubicar patrullas en motocicleta en corredores viales durante apertura y cierre bancario para prevenir el hurto a entidades financieras",
         "D": "Ubicar patrullas en transporte público para realizar abordaje, registro e identificación de personas en horas pico"
       },
-      "correct": null
+      "correct": "D"
     },
     {
       "number": 143,
@@ -1572,7 +1572,7 @@
         "C": "Ubicar patrullas sobre semáforos en principales corredores viales para realizar registros selectivos a vehículos cuando la luz está en rojo",
         "D": "Ubicar patrullas en transporte público con mínimo cuatro uniformados para abordar buses y realizar registros e identificación de personas en horas pico"
       },
-      "correct": null
+      "correct": "C"
     },
     {
       "number": 144,
@@ -1583,7 +1583,7 @@
         "C": "Extremar las medidas de seguridad personal, desenfundando el arma en posición preventiva para reaccionar si es necesario",
         "D": "Coordinar la comunicación con la central de radio y el apoyo de unidades especializadas"
       },
-      "correct": null
+      "correct": "C"
     },
     {
       "number": 145,
@@ -1594,7 +1594,7 @@
         "C": "prestar seguridad durante los procedimientos",
         "D": "Coordinar la intervención policial y dar instrucciones al tripulante en el lugar de los hechos"
       },
-      "correct": null
+      "correct": "C"
     },
     {
       "number": 146,
@@ -1605,7 +1605,7 @@
         "C": "Reactivo",
         "D": "Judicial"
       },
-      "correct": null
+      "correct": "B"
     },
     {
       "number": 147,
@@ -1616,7 +1616,7 @@
         "C": "Responsabilidad profesional",
         "D": "Integridad policial"
       },
-      "correct": null
+      "correct": "B"
     },
     {
       "number": 148,
@@ -1627,7 +1627,7 @@
         "C": "Corresponsabilidad, porque todas las personas y unidades comparten el compromiso de mantener la integridad policial.",
         "D": "Articulación ya que las unidades trabajan mancomunadamente para el logro de objetivos"
       },
-      "correct": null
+      "correct": "C"
     },
     {
       "number": 149,
@@ -1638,7 +1638,7 @@
         "C": "articulación",
         "D": "Legalidad"
       },
-      "correct": "C"
+      "correct": "B"
     },
     {
       "number": 150,
@@ -1748,7 +1748,7 @@
         "C": "asesora jurídico.",
         "D": "jefe de la Oficina de Control Interno Disciplinario de Instrucción."
       },
-      "correct": null
+      "correct": "C"
     },
     {
       "number": 160,
@@ -1792,7 +1792,7 @@
         "C": "Orden del día",
         "D": "Memorando"
       },
-      "correct": null
+      "correct": "D"
     },
     {
       "number": 164,
@@ -1946,7 +1946,7 @@
         "C": "Inteligencia estratégica, control operativo y judicialización penal",
         "D": "Investigación criminal, control administrativo y orden público"
       },
-      "correct": null
+      "correct": "B"
     },
     {
       "number": 178,
@@ -1957,7 +1957,7 @@
         "C": "El Director General de la Policía Nacional de Colombia",
         "D": "La Dirección de Educación Policial"
       },
-      "correct": null
+      "correct": "C"
     },
     {
       "number": 179,
@@ -1968,7 +1968,7 @@
         "C": "El Director General de la Policía Nacional de Colombia",
         "D": "El Ministerio de Educación Nacional"
       },
-      "correct": null
+      "correct": "C"
     },
     {
       "number": 180,
@@ -1979,7 +1979,7 @@
         "C": "Nivel estratégico",
         "D": "Nivel de ejecución disciplinaria"
       },
-      "correct": null
+      "correct": "C"
     },
     {
       "number": 181,
@@ -1990,7 +1990,7 @@
         "C": "Nivel operacional",
         "D": "Nivel de inspección disciplinaria"
       },
-      "correct": null
+      "correct": "B"
     },
     {
       "number": 182,
@@ -2001,7 +2001,7 @@
         "C": "Táctico – operacional – estratégico",
         "D": "Estratégico – operacional – táctico"
       },
-      "correct": null
+      "correct": "B"
     },
     {
       "number": 183,
@@ -2012,7 +2012,7 @@
         "C": "Libro minuta de servicios",
         "D": "Libro de atención al ciudadano"
       },
-      "correct": null
+      "correct": "C"
     },
     {
       "number": 184,
@@ -2023,7 +2023,7 @@
         "C": "Libro de atención al ciudadano",
         "D": "Libro minuta de guardia y seguridad a instalaciones"
       },
-      "correct": null
+      "correct": "D"
     },
     {
       "number": 185,
@@ -2034,7 +2034,7 @@
         "C": "Libro de atención al ciudadano",
         "D": "Libro de actas policiales"
       },
-      "correct": null
+      "correct": "B"
     },
     {
       "number": 186,
@@ -2045,7 +2045,7 @@
         "C": "Integra la intervención temprana y anticipativa de los factores de riesgo propios de cada territorio.",
         "D": "Enfoca el servicio exclusivamente en la seguridad ciudadana, dejando de lado otros ámbitos sociales."
       },
-      "correct": null
+      "correct": "C"
     },
     {
       "number": 187,
@@ -2056,7 +2056,7 @@
         "C": "Sustituye la intervención policial por la gestión exclusiva de las autoridades locales.",
         "D": "Limita el servicio de policía a la vigilancia del orden público."
       },
-      "correct": null
+      "correct": "B"
     },
     {
       "number": 188,
@@ -2067,7 +2067,7 @@
         "C": "Los procedimientos policiales se reducen al mínimo normativo.",
         "D": "El modelo se ejecuta únicamente en zonas urbanas."
       },
-      "correct": null
+      "correct": "B"
     },
     {
       "number": 189,
@@ -2078,7 +2078,7 @@
         "C": "Evaluar el impacto del servicio en la convivencia ciudadana a partir de la cadena de valor de las políticas públicas.",
         "D": "Controlar de forma jerárquica el despliegue operativo."
       },
-      "correct": null
+      "correct": "C"
     },
     {
       "number": 190,
@@ -2089,7 +2089,7 @@
         "C": "Focalizada – Atención priorizada a necesidades específicas del territorio",
         "D": "Objetiva – Decisiones basadas únicamente en percepción ciudadana"
       },
-      "correct": null
+      "correct": "C"
     },
     {
       "number": 191,
@@ -2100,7 +2100,7 @@
         "C": "Unificar los procedimientos policiales a nivel nacional.",
         "D": "Priorizar las demandas institucionales sobre las comunitarias."
       },
-      "correct": null
+      "correct": "B"
     },
     {
       "number": 192,
@@ -2111,7 +2111,7 @@
         "C": "Integrar múltiples actores y priorizar acciones según necesidades reales del territorio.",
         "D": "Delegar la responsabilidad del control del delito en la comunidad."
       },
-      "correct": null
+      "correct": "C"
     },
     {
       "number": 193,
@@ -2122,7 +2122,7 @@
         "C": "Limite su actuación a tareas de acompañamiento ciudadano.",
         "D": "Actúe únicamente bajo requerimiento formal escrito."
       },
-      "correct": null
+      "correct": "B"
     },
     {
       "number": 194,
@@ -2133,7 +2133,7 @@
         "C": "Se limita al marco constitucional, excluyendo reglamentos internos.",
         "D": "Aplica solo a los mandos responsables del despliegue operativo."
       },
-      "correct": null
+      "correct": "A"
     },
     {
       "number": 195,
@@ -2144,7 +2144,7 @@
         "C": "Depende de la delegación expresa del mando institucional.",
         "D": "Se limita a las unidades operativas territoriales."
       },
-      "correct": null
+      "correct": "A"
     },
     {
       "number": 196,
@@ -2155,7 +2155,7 @@
         "C": "Alcance disciplinario exclusivo.",
         "D": "Alcance discrecional según el cargo desempeñado."
       },
-      "correct": null
+      "correct": "A"
     },
     {
       "number": 197,
@@ -2166,7 +2166,7 @@
         "C": "Publicidad",
         "D": "complementariedad"
       },
-      "correct": null
+      "correct": "D"
     },
     {
       "number": 198,
@@ -2188,7 +2188,7 @@
         "C": "Actuar únicamente frente a amenazas consumadas.",
         "D": "Sustituir el análisis territorial por criterios operativos generales."
       },
-      "correct": null
+      "correct": "A"
     },
     {
       "number": 200,
@@ -2232,7 +2232,7 @@
         "C": "Restringe la participación comunitaria.",
         "D": "Prioriza exclusivamente criterios técnicos internos."
       },
-      "correct": null
+      "correct": "A"
     },
     {
       "number": 204,
@@ -2243,7 +2243,7 @@
         "C": "Se actúe únicamente conforme a órdenes superiores.",
         "D": "Se priorice la rapidez sobre la calidad."
       },
-      "correct": null
+      "correct": "A"
     }
   ]
 }
